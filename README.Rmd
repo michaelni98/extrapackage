@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/extrapackage)](https://CRAN.R-project.org/package=extrapackage)
+[![R-CMD-check](https://github.com/michaelni98/extrapackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/michaelni98/extrapackage/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/michaelni98/extrapackage/graph/badge.svg)](https://app.codecov.io/gh/michaelni98/extrapackage)
 <!-- badges: end -->
 
 The goal of extrapackage is to ...
